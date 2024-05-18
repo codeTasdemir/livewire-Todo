@@ -1,0 +1,13 @@
+@import 'bootstrap/scss/bootstrap';
+body{
+    background-color: black;
+    color: white;
+}
+.todo-list-container{
+    display: flex;
+    justify-content: center;
+}
+
+.todo-list-container .inner{
+    margin-top: 50px;
+}
